@@ -82,5 +82,5 @@ Ensure you have Python 3.8+ installed.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/employee-salary-prediction
+git clone https://github.com/shailesh00v7/employee-salary-prediction
 cd employee-salary-prediction
